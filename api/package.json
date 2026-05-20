@@ -1,0 +1,8 @@
+{
+  "name": "voice-journal-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Voice Journal app",
+  "dependencies": {
+    "form-data": "^4.0.0"
+  }
+}
