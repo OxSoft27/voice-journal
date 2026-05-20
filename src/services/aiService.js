@@ -2,7 +2,7 @@ import axios from 'axios';
 import * as FileSystem from 'expo-file-system';
 
 // Backend API URL - you'll need to deploy this
-const BACKEND_URL = 'YOUR_BACKEND_URL_HERE'; // e.g., https://your-app.vercel.app
+const BACKEND_URL = 'https://voice-journal-ten.vercel.app';
 
 /**
  * Analyze voice journal using AI
